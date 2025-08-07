@@ -1,0 +1,11 @@
+ 125  nano deploy.sh
+  126  cd
+  127  git init
+  128  cd
+  129  clear
+  130  nano deploy.sh
+  131  chmod +x deploy.sh
+  132  ./deploy.sh
+  133  cd Project-Navigator
+  134  history |tail
+
